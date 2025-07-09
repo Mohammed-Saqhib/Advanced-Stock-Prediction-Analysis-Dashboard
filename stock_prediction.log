@@ -1,0 +1,246 @@
+2025-04-20 23:12:05,165 - utils - INFO - Created directory: results/portfolio
+2025-04-20 23:12:05,166 - utils - INFO - PortfolioOptimizer initialized with 10 tickers
+2025-04-20 23:12:05,166 - utils - INFO - Loading data for 10 stocks from 2018-01-01 to 2025-04-20
+2025-04-20 23:12:07,014 - utils - ERROR - Error loading data: 'Adj Close'
+2025-04-20 23:12:07,016 - utils - INFO - Function load_data executed in 1.85 seconds
+2025-04-20 23:19:44,630 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-20 23:25:23,499 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-21 00:36:16,846 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-21 00:51:55,365 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-24 20:06:56,021 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-24 20:20:27,809 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-24 20:20:51,488 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 20:20:51,489 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 20:20:53,570 - utils - ERROR - Error loading data: 'Adj Close'
+2025-04-24 20:20:53,572 - utils - INFO - Function load_data executed in 2.08 seconds
+2025-04-24 20:23:13,283 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 20:23:13,284 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 20:23:13,453 - utils - ERROR - Error loading data: 'Adj Close'
+2025-04-24 20:23:13,454 - utils - INFO - Function load_data executed in 0.17 seconds
+2025-04-24 20:23:15,133 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 20:23:15,135 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 20:23:15,312 - utils - ERROR - Error loading data: 'Adj Close'
+2025-04-24 20:23:15,313 - utils - INFO - Function load_data executed in 0.18 seconds
+2025-04-24 20:23:28,368 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 20:23:28,369 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 20:23:28,574 - utils - ERROR - Error loading data: 'Adj Close'
+2025-04-24 20:23:28,574 - utils - INFO - Function load_data executed in 0.21 seconds
+2025-04-24 20:24:32,757 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 20:24:32,758 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 20:24:32,934 - utils - ERROR - Error loading data: 'Adj Close'
+2025-04-24 20:24:32,934 - utils - INFO - Function load_data executed in 0.18 seconds
+2025-04-24 20:25:19,413 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 20:25:19,414 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 20:25:19,611 - utils - ERROR - Error loading data: 'Adj Close'
+2025-04-24 20:25:19,611 - utils - INFO - Function load_data executed in 0.20 seconds
+2025-04-24 20:28:24,137 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-24 20:28:27,596 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 20:28:27,597 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 20:28:29,333 - utils - INFO - Loaded 1837 days of data
+2025-04-24 20:28:29,334 - utils - INFO - Function load_data executed in 1.74 seconds
+2025-04-24 20:28:29,334 - utils - INFO - Optimizing portfolio using sharpe method for 4 assets
+2025-04-24 20:29:03,786 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 20:29:03,787 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 20:29:03,956 - utils - INFO - Loaded 1837 days of data
+2025-04-24 20:29:03,956 - utils - INFO - Function load_data executed in 0.17 seconds
+2025-04-24 20:29:03,958 - utils - INFO - Optimizing portfolio using sharpe method for 4 assets
+2025-04-24 20:51:18,836 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-24 20:54:48,282 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 20:54:48,282 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 20:55:21,623 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 20:55:21,623 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 20:55:21,999 - utils - INFO - Loaded 1837 days of data
+2025-04-24 20:55:22,001 - utils - INFO - Loaded 1837 days of data
+2025-04-24 20:55:22,001 - utils - INFO - Function load_data executed in 33.72 seconds
+2025-04-24 20:55:22,001 - utils - INFO - Function load_data executed in 0.38 seconds
+2025-04-24 20:55:22,003 - utils - INFO - Optimizing portfolio using sharpe method for 4 assets
+2025-04-24 21:02:31,768 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-24 21:02:52,113 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 21:02:52,114 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 21:02:53,119 - utils - INFO - Loaded 1837 days of data
+2025-04-24 21:02:53,120 - utils - INFO - Function load_data executed in 1.01 seconds
+2025-04-24 21:02:53,121 - utils - INFO - Optimizing portfolio using sharpe method for 4 assets
+2025-04-24 21:03:46,138 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 21:03:46,139 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 21:03:46,317 - utils - INFO - Loaded 1837 days of data
+2025-04-24 21:03:46,317 - utils - INFO - Function load_data executed in 0.18 seconds
+2025-04-24 21:03:46,318 - utils - INFO - Optimizing portfolio using efficient_risk method for 4 assets
+2025-04-24 21:03:46,318 - utils - ERROR - Invalid optimization method: efficient_risk
+2025-04-24 21:03:51,587 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 21:03:51,587 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 21:03:51,754 - utils - INFO - Loaded 1837 days of data
+2025-04-24 21:03:51,755 - utils - INFO - Function load_data executed in 0.17 seconds
+2025-04-24 21:03:51,756 - utils - INFO - Optimizing portfolio using sharpe method for 4 assets
+2025-04-24 21:18:21,180 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 21:18:21,181 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 21:18:21,352 - utils - INFO - Loaded 1837 days of data
+2025-04-24 21:18:21,352 - utils - INFO - Function load_data executed in 0.17 seconds
+2025-04-24 21:18:31,560 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 21:18:31,560 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 21:18:31,731 - utils - INFO - Loaded 1837 days of data
+2025-04-24 21:18:31,731 - utils - INFO - Function load_data executed in 0.17 seconds
+2025-04-24 21:44:09,284 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-24 21:44:20,778 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 21:44:20,779 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 21:44:22,863 - utils - INFO - Loaded 1837 days of data
+2025-04-24 21:44:22,863 - utils - INFO - Function load_data executed in 2.08 seconds
+2025-04-24 21:44:22,865 - utils - INFO - Optimizing portfolio using sharpe method for 4 assets
+2025-04-24 21:44:47,356 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 21:44:47,357 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 21:44:47,550 - utils - INFO - Loaded 1837 days of data
+2025-04-24 21:44:47,551 - utils - INFO - Function load_data executed in 0.19 seconds
+2025-04-24 21:44:47,552 - utils - INFO - Optimizing portfolio using efficient_return method for 4 assets
+2025-04-24 21:44:47,552 - utils - ERROR - Invalid optimization method: efficient_return
+2025-04-24 21:44:55,658 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 21:44:55,659 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 21:44:55,831 - utils - INFO - Loaded 1837 days of data
+2025-04-24 21:44:55,831 - utils - INFO - Function load_data executed in 0.17 seconds
+2025-04-24 21:44:55,832 - utils - INFO - Optimizing portfolio using sharpe method for 4 assets
+2025-04-24 21:46:16,985 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 21:46:16,985 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 21:46:17,188 - utils - INFO - Loaded 1837 days of data
+2025-04-24 21:46:17,188 - utils - INFO - Function load_data executed in 0.20 seconds
+2025-04-24 21:46:17,190 - utils - INFO - Optimizing portfolio using sharpe method for 4 assets
+2025-04-24 21:46:17,206 - utils - INFO - Optimization True - Optimization terminated successfully
+2025-04-24 21:47:07,852 - utils - INFO - PortfolioOptimizer initialized with 2 tickers
+2025-04-24 21:47:07,853 - utils - INFO - Loading data for 2 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 21:47:09,257 - utils - INFO - Loaded 1837 days of data
+2025-04-24 21:47:09,257 - utils - INFO - Function load_data executed in 1.40 seconds
+2025-04-24 21:47:09,258 - utils - INFO - Optimizing portfolio using sharpe method for 2 assets
+2025-04-24 21:47:09,275 - utils - INFO - Optimization True - Optimization terminated successfully
+2025-04-24 21:47:34,493 - utils - INFO - PortfolioOptimizer initialized with 6 tickers
+2025-04-24 21:47:34,494 - utils - INFO - Loading data for 6 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 21:47:35,275 - utils - INFO - Loaded 1837 days of data
+2025-04-24 21:47:35,275 - utils - INFO - Function load_data executed in 0.78 seconds
+2025-04-24 21:47:35,277 - utils - INFO - Optimizing portfolio using sharpe method for 6 assets
+2025-04-24 21:47:35,303 - utils - INFO - Optimization True - Optimization terminated successfully
+2025-04-24 21:48:42,019 - utils - INFO - PortfolioOptimizer initialized with 2 tickers
+2025-04-24 21:48:42,020 - utils - INFO - Loading data for 2 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 21:48:42,095 - utils - INFO - Loaded 1837 days of data
+2025-04-24 21:48:42,095 - utils - INFO - Function load_data executed in 0.08 seconds
+2025-04-24 21:48:42,097 - utils - INFO - Optimizing portfolio using sharpe method for 2 assets
+2025-04-24 21:48:42,110 - utils - INFO - Optimization True - Optimization terminated successfully
+2025-04-24 21:48:55,428 - utils - INFO - PortfolioOptimizer initialized with 2 tickers
+2025-04-24 21:48:55,429 - utils - INFO - Loading data for 2 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 21:48:55,493 - utils - INFO - Loaded 1837 days of data
+2025-04-24 21:48:55,493 - utils - INFO - Function load_data executed in 0.06 seconds
+2025-04-24 21:48:55,495 - utils - INFO - Optimizing portfolio using sharpe method for 2 assets
+2025-04-24 21:48:55,507 - utils - INFO - Optimization True - Optimization terminated successfully
+2025-04-24 21:49:01,473 - utils - INFO - PortfolioOptimizer initialized with 2 tickers
+2025-04-24 21:49:01,473 - utils - INFO - Loading data for 2 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 21:49:01,551 - utils - INFO - Loaded 1837 days of data
+2025-04-24 21:49:01,551 - utils - INFO - Function load_data executed in 0.08 seconds
+2025-04-24 21:49:01,552 - utils - INFO - Optimizing portfolio using sharpe method for 2 assets
+2025-04-24 21:49:01,567 - utils - INFO - Optimization True - Optimization terminated successfully
+2025-04-24 21:55:04,030 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-24 21:55:04,030 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-24
+2025-04-24 21:55:04,237 - utils - INFO - Loaded 1837 days of data
+2025-04-24 21:55:04,237 - utils - INFO - Function load_data executed in 0.21 seconds
+2025-04-24 21:55:04,239 - utils - INFO - Optimizing portfolio using sharpe method for 4 assets
+2025-04-24 21:55:04,267 - utils - INFO - Optimization True - Optimization terminated successfully
+2025-04-25 10:47:04,235 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-25 10:54:29,568 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-27 10:31:41,012 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-27 10:38:52,607 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-27 11:48:05,121 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-27 12:04:57,934 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-27 23:34:25,170 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-27 23:39:40,980 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-27 23:41:47,810 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-27 23:41:47,810 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-27
+2025-04-27 23:41:49,048 - utils - INFO - Loaded 1839 days of data
+2025-04-27 23:41:49,049 - utils - INFO - Function load_data executed in 1.24 seconds
+2025-04-27 23:41:49,050 - utils - INFO - Optimizing portfolio using sharpe method for 4 assets
+2025-04-27 23:41:49,154 - utils - INFO - Optimization True - Optimization terminated successfully
+2025-04-28 12:10:05,877 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-28 15:38:03,203 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-28 15:40:46,392 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-04-28 15:40:46,392 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-04-28
+2025-04-28 15:40:47,890 - utils - INFO - Loaded 1839 days of data
+2025-04-28 15:40:47,890 - utils - INFO - Function load_data executed in 1.50 seconds
+2025-04-28 15:40:47,891 - utils - INFO - Optimizing portfolio using sharpe method for 4 assets
+2025-04-28 15:40:47,980 - utils - INFO - Optimization True - Optimization terminated successfully
+2025-05-04 20:25:48,666 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-05-04 22:12:11,530 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-05-23 22:07:10,030 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-05-23 22:08:55,899 - yfinance - ERROR - 
+1 Failed download:
+2025-05-23 22:08:55,899 - yfinance - ERROR - ['AAPL']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-23 22:09:07,382 - yfinance - ERROR - 
+1 Failed download:
+2025-05-23 22:09:07,384 - yfinance - ERROR - ['GOOGL']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-23 22:09:48,612 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-05-23 22:09:48,612 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-05-23
+2025-05-23 22:09:50,253 - yfinance - ERROR - 
+4 Failed downloads:
+2025-05-23 22:09:50,255 - yfinance - ERROR - ['MSFT', 'AMZN', 'GOOGL', 'AAPL']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-23 22:09:50,264 - utils - ERROR - No data found for the selected tickers
+2025-05-23 22:09:50,265 - utils - INFO - Function load_data executed in 1.65 seconds
+2025-05-23 22:14:09,405 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-05-23 22:14:14,330 - yfinance - ERROR - 
+1 Failed download:
+2025-05-23 22:14:14,331 - yfinance - ERROR - ['AAPL']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-23 22:14:25,671 - yfinance - ERROR - 
+1 Failed download:
+2025-05-23 22:14:25,671 - yfinance - ERROR - ['AAPL']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-23 22:28:01,986 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-05-23 22:28:08,631 - yfinance - ERROR - 
+1 Failed download:
+2025-05-23 22:28:08,632 - yfinance - ERROR - ['AAPL']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-23 22:28:14,697 - yfinance - ERROR - 
+1 Failed download:
+2025-05-23 22:28:14,698 - yfinance - ERROR - ['NVDA']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-23 22:28:27,568 - utils - INFO - PortfolioOptimizer initialized with 4 tickers
+2025-05-23 22:28:27,569 - utils - INFO - Loading data for 4 stocks from 2018-01-01 to 2025-05-23
+2025-05-23 22:28:29,499 - yfinance - ERROR - 
+4 Failed downloads:
+2025-05-23 22:28:29,499 - yfinance - ERROR - ['AAPL', 'GOOGL', 'MSFT', 'AMZN']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-23 22:28:29,503 - utils - ERROR - No data found for the selected tickers
+2025-05-23 22:28:29,504 - utils - INFO - Function load_data executed in 1.93 seconds
+2025-05-23 22:28:37,019 - yfinance - ERROR - 
+3 Failed downloads:
+2025-05-23 22:28:37,021 - yfinance - ERROR - ['GOOGL', 'MSFT', 'AAPL']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-23 22:49:25,701 - tensorflow - WARNING - From C:\Users\itzmo\anaconda3\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-05-23 22:49:28,763 - utils - INFO - Getting stock data for AAPL from 2020-01-01 to 2025-05-23
+2025-05-23 22:49:32,411 - yfinance - ERROR - 
+1 Failed download:
+2025-05-23 22:49:32,412 - yfinance - ERROR - ['AAPL']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-23 22:49:32,418 - utils - WARNING - Empty data returned for AAPL. Retrying...
+2025-05-23 22:49:36,603 - yfinance - ERROR - 
+1 Failed download:
+2025-05-23 22:49:36,606 - yfinance - ERROR - ['AAPL']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-23 22:49:36,611 - utils - WARNING - Empty data returned for AAPL. Retrying...
+2025-05-23 22:49:41,581 - yfinance - ERROR - 
+1 Failed download:
+2025-05-23 22:49:41,583 - yfinance - ERROR - ['AAPL']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2025-05-23 22:49:41,587 - utils - WARNING - Empty data returned for AAPL. Retrying...
+2025-05-23 22:49:45,668 - utils - ERROR - Failed to download data for AAPL after 3 attempts
+2025-05-23 22:50:01,188 - yfinance - ERROR - 
+3 Failed downloads:
+2025-05-23 22:50:01,192 - yfinance - ERROR - ['AAPL', 'MSFT', 'GOOGL']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')

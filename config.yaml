@@ -1,0 +1,86 @@
+# Stock Prediction System Configuration
+
+# Default parameters
+default:
+  ticker: "AAPL"
+  start_date: "2018-01-01"
+  prediction_days: 30
+  test_size: 0.2
+  random_state: 42
+
+# Model-specific parameters
+models:
+  linear:
+    enabled: true
+    
+  advanced:
+    enabled: true
+    
+  ensemble:
+    enabled: true
+    models:
+      - LinearRegression
+      - Ridge
+      - Lasso
+      - RandomForest
+      - GradientBoosting
+      - SVR
+    
+  lstm:
+    enabled: true
+    sequence_length: 60
+    neurons: 50
+    dropout_rate: 0.2
+    batch_size: 32
+    epochs: 50
+    patience: 10
+    
+  xgboost:
+    enabled: true
+    max_depth: 6
+    learning_rate: 0.01
+    subsample: 0.8
+    colsample_bytree: 0.8
+    n_estimators: 1000
+    early_stopping_rounds: 50
+    
+  prophet:
+    enabled: true
+    changepoint_prior_scale: 0.05
+    seasonality_prior_scale: 10.0
+    
+# Sentiment analysis settings
+sentiment_analysis:
+  enabled: true
+  days: 30
+  source: "yahoo"
+  use_full_text: false
+  
+# Portfolio optimization settings
+portfolio:
+  default_tickers:
+    - "AAPL"
+    - "MSFT"
+    - "GOOG"
+    - "AMZN"
+    - "META"
+    - "TSLA"
+    - "V"
+    - "JPM"
+    - "WMT"
+    - "PG"
+  backtest_split: 0.3
+  optimization_method: "sharpe"
+  
+# API settings
+api:
+  host: "0.0.0.0"
+  port: 8000
+  
+# Streamlit settings
+streamlit:
+  theme:
+    primaryColor: "#1E90FF"
+    backgroundColor: "#FFFFFF"
+    secondaryBackgroundColor: "#F0F2F6"
+    textColor: "#262730"
