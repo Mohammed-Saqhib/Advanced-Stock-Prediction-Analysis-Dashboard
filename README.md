@@ -85,10 +85,10 @@ The dashboard integrates multiple data sources, resilient to API rate limits and
 ## 🎮 Demo
 
 <p align="center">
-  <img src="https://i.imgur.com/example.gif" width="800" alt="Dashboard Demo">
+  <img src="AAPL_prediction.png" width="800" alt="Dashboard Demo">
 </p>
 
-*Note: Replace with actual screenshots/GIFs of your application*
+
 
 ## 🚀 Installation
 
